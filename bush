@@ -1,4 +1,0 @@
-git clone https://github.com/marianavaccarezza/mariana-vaccarezza-website.git
-cd mariana-vaccarezza-website
-npm install
-npm run dev
